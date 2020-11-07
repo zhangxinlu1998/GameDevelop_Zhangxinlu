@@ -1,12 +1,9 @@
 # GameDevelop_Zhangxinlu
 
-游戏开发基础第三讲作业
+游戏开发基础第七讲作业
 
-作业项目源文件：GameDevelop_Zhangxinlu/Collider_zxl/Assets/Homework/
 
-作业场景：GameDevelop_Zhangxinlu/Collider_zxl/Assets/Homework/WallCollider.unity
+作业分析文档：GameDevelop_Zhangxinlu/粒子特效分析/黑神话悟空粒子特效分析_张欣璐.docx
 
-作业可执行文件：GameDevelop_Zhangxinlu / WallCollider.rar 解压后点击WallCollider.exe运行游戏
-
-作业说明文档：GameDevelop_Zhangxinlu / 数学与物理第三讲_张欣璐.docx
+作业GIF：GameDevelop_Zhangxinlu/粒子特效分析/粒子复刻·自制.gif
  
